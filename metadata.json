@@ -1,0 +1,6 @@
+{
+  "name": "如何变得更优秀",
+  "description": "一个专注认知、表达、习惯、方法、学习与生活能力的个人成长知识库与实践指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
